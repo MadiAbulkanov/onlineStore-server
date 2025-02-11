@@ -1,0 +1,6 @@
+{
+    "env": {
+      "DATABASE_URL": "required",
+      "PORT": "required"
+    }
+  }
